@@ -37,7 +37,7 @@
     "ulid": "^2.3.0",
     "yargs": "^13.2.2"
   },
-  "peerDepencencies": {
+  "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
